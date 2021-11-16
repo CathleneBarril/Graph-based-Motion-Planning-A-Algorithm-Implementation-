@@ -1,1 +1,1 @@
-# Graph-based-Motion-Planning-A-Algorithm-Implementation-
+# Graph-based-Motion-Planning-A(star)-Algorithm-Implementation-
